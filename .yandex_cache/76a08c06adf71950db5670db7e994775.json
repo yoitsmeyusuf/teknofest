@@ -1,0 +1,1 @@
+{"error": "HTTPSConnectionPool(host='geocode-maps.yandex.ru', port=443): Read timed out. (read timeout=7)"}

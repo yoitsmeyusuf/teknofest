@@ -1,0 +1,157 @@
+{"tokens": ["Uzundere", "Sok", ".", "Cumhuriyet", "Mahallesi"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Alparslan", "türkeş", "Cad", ".", "Orhangazi", "Mahalle", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Katipçelebi", "Cadde", "Meclis", "Mahallesi", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Osmaniye", "Mh", ".", "I", "smail", "erez", "Cad", "."], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Uzundere", "Sk", ".", "Cumhuriyet", "Mh", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Çakmak", "Pazarı", "Çakmak", "Mh", ".", ",", "Uzunayna", "Caddesi", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["Çamçeşme", "Mahallesi", "Selamet", "Cad", ".", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Cenap", "şahabettin", "Sokağı", "Koşuyolu", "Mah", "."], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Dirsek", "Sk", ".", "Şenlikköy", "Mahalle", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Sırt", "Sok", ".", ",", "Armağan", "evler", "Mah", "."], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Güvercintepe", "Pzt", "Pazarı", "Güvercintepe", "Mah", ".", "Gül", "Sokağı", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "O", "B-IL"]}
+{"tokens": ["Paşabahçe", "1", "Pazar", "Paşabahçe", "Mahalle", ",", "Beyaz", "ergüvan", "Cadde"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Fatih", "Bulvarı", "Muhtarlığı", "Akşemsettin", "Mh", ".", "Fatih", "bulvarı", "C", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Emek", "Cad", ".", ",", "Zümrütevler", "Mahalle", ",", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["Turgut", "reis", "Caddesi", "Kavakpınar", "Mahalle", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Miraç", "Sokağı", ",", "Esenler", "Mah", "."], "labels": ["B-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Hüma", "C", ".", "Yunus", "emre", "Mh", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Gençlik", "Caddesi", ",", "Çınardere", "Mah", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Emre", "Sokak", "Güllübağlar", "Mah", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Eyyübi", "Cad", ".", "Yavuz", "selim", "Mh", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Abdurrahmangazi", "Mh", ".", ",", "Osmanpaşa", "Cd", "."], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Atakent", "Mh", ".", ",", "Seyfi", "demirsoy", "Caddesi", ",", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["Küçükyalı", "Muhtarlığı", "Küçükyalı", "Mahalle", "Gümüşçü", "Sk", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK", "B-IL"]}
+{"tokens": ["Hürriyet", "Pazarı", "Hürriyet", "Mh", ".", ",", "Hürriyet", "Cad", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Kocasinan", "Açık", "İstanbul", ",", "Kocasinan", "Mh", ".", ",", "Yenibosna", "kocasinan", "yolu", "Cadde"], "labels": ["B-POI", "I-POI", "B-IL", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Bağlarbaşı", "Muhtarlığı", ",", "Bağlarbaşı", "Mh", ".", "Salih", "reis", "Sk", "."], "labels": ["B-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["İstanbul", "Gülsuyu", "Gülsuyu", "Mahalle", ",", "Fevzi", "çakmak", "C", "."], "labels": ["B-IL", "B-POI", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["İstanbul", ",", "Kubilay", "Cadde", "Mehmet", "akif", "Mahalle"], "labels": ["B-IL", "O", "B-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Canan", "Sokağı", "Soğukpınar", "Mah", "."], "labels": ["B-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Çubuklu", "Muhtarlığı", "Çubuklu", "Mahalle", ",", "Engürü", "bağı", "Caddesi"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["3002", ".", "Cd", ".", ",", "Aşıkveysel", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Fatin", "hoca", "Sokağı", "Gümüşsuyu", "Mah", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Barboros", "Cd", ".", "Altkaynarca", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Fatih", "Cd", ".", "Çobançeşme", "Mh", "."], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Beyaz", "ergüvan", "Cadde", "Paşabahçe", "Mahalle"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Mimar", "sinan", "Cd", ".", ",", "İstanbul", ",", "Osman", "gazi", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["9", ".", "Sk", ".", ",", "İstanbul", ",", "Ferhatpaşa", "Mah", "."], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "O", "B-IL", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["İmrahor", "Pazar", "Yeri", "I", "mrahor", "Mah", ".", "I", "mrahor", "Caddesi"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Göçmen", "Konutları", "Pazar", "Yeri", "Başak", "Mh", ".", ",", "Tunalı", "C", "."], "labels": ["B-POI", "I-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Başak", "2", "Pazarı", "Başak", "Mahallesi", "Yunus", "emre", "Caddesi", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["Göçmen", "Sokağı", ",", "Hadımköy", "Mahallesi"], "labels": ["B-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Kazım", "Karabekir", "Pazar", "Yeri", "Dumlupınar", "Mahalle", "Hisar", "C", "."], "labels": ["B-POI", "I-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Orhanlı", "Pazar", "Yeri", ",", "Mescit", "Mah", ".", ",", "Başaran", "Sokağı"], "labels": ["B-POI", "I-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK"]}
+{"tokens": ["İstanbul", "Mimarsinan", "Cadde", ",", "Mimarsinan", "Mah", "."], "labels": ["B-IL", "B-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Talatpaşa", "Cad", ".", "Cihangir", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Ayazma", "Caddesi", ",", "Çınardere", "Mah", "."], "labels": ["B-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Yenidoğan", "Yenidoğan", "Mahallesi", "Akın", "Cadde"], "labels": ["B-POI", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE"]}
+{"tokens": ["Antalya", "Cad", ".", ",", "Necip", "fazıl", "Mah", ".", ",", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["Sarıgazi", ",", "İstanbul", ",", "Emek", "Mahalle", "Mehmet", "akif", "ersoy", "Cd", "."], "labels": ["B-POI", "O", "B-IL", "O", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Bostan", "Sk", ".", "Aşağıdudullu", "Mahallesi"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Mehmet", "Akif", ",", "Mehmetakif", "Mahalle", "Gül", "Caddesi", "İstanbul"], "labels": ["B-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Mimarsinan", "Mimarsinan", "Mh", ".", ",", "Gündoğdu", "Sk", "."], "labels": ["B-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Antalya", "C", ".", ",", "Necip", "fazıl", "Mah", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Pelin", "Sk", ".", "Güzeltepe", "Mh", "."], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["İstanbul", ",", "Kiraz", "çiçeği", "Sokağı", ",", "Esentepe", "Mahallesi"], "labels": ["B-IL", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Yavuz", "Sk", ".", "İstanbul", "Necipfazıl", "Mahalle"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-IL", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["İçerenköy", "Pazar", "Yeri", "I", "çerenköy", "Mh", ".", ",", "Nadir", "Sokağı"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK"]}
+{"tokens": ["Bostan", "Sokak", "Aşağıdudullu", "Mh", "."], "labels": ["B-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Yunus", "emre", "Mahallesi", ",", "Karşıyaka", "C", ".", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Bahçelievler", "Pazar", "İstanbul", "Güzeltepe", "Mh", ".", ",", "Pelin", "Sk", "."], "labels": ["B-POI", "I-POI", "B-IL", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Tugayyolu", ",", "Cevizli", "Mahalle", ",", "Ayhan", "Sk", "."], "labels": ["B-POI", "O", "B-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Hürriyet", "Çarşamba", "Muhtarlığı", "Hürriyet", "Mahallesi", ",", "Yıldırım", "beyazıt", "Cad", ".", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["3002", ".", "Caddesi", "İstanbul", ",", "Aşıkveysel", "Mahalle"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-IL", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Acıbadem", "Cadde", "Acıbadem", "Mh", "."], "labels": ["B-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Firuzköy", "Mahalle", ",", "Ülker", "Cd", "."], "labels": ["B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["I", "zzet", "kabadayı", "Sokak", "Aydınlı", "Mh", "."], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Mehmet", "akif", "ersoy", "Cd", ".", "Beylerbeyi", "Mh", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Koşuyolu", "Pazar", "Yeri", "Koşuyolu", "Mh", ".", "Cenap", "şahabettin", "Sokak"], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Katipçelebi", "Cadde", ",", "Meclis", "Mh", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Rehber", "C", ".", "Cumhuriyet", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Uzundere", "Sk", ".", "İstanbul", "Cumhuriyet", "Mahallesi"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-IL", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Yenidoğan", "Pazar", "Yeri", ",", "Yenidoğan", "Mahallesi", ",", "Akın", "Cd", "."], "labels": ["B-POI", "I-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Safahat", "C", ".", "Uğurmumcu", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Site", ",", "Armağan", "evler", "Mh", ".", ",", "Sırt", "Sokağı", "İstanbul"], "labels": ["B-POI", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "B-IL"]}
+{"tokens": ["Girne", "Muhtarlığı", "İstanbul", ",", "Girne", "Mah", ".", "Doğuşkent", "Cadde"], "labels": ["B-POI", "I-POI", "B-IL", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE"]}
+{"tokens": ["Mimarsinan", "Pazarı", "Mimarsinan", "Mah", ".", "Mimarsinan", "Cd", "."], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Çobanyıldızı", "Sokak", "İstanbul", "Erenköy", "Mahallesi"], "labels": ["B-SOKAK", "I-SOKAK", "B-IL", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Şeyhli", "Pazar", "Yeri", ",", "Şeyhli", "Mh", ".", ",", "Yeniay", "Sk", "."], "labels": ["B-POI", "I-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Yunus", "emre", "Cadde", "Başak", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Yunusemre", "Muhtarlığı", "Yunus", "emre", "Mahallesi", ",", "Karşıyaka", "Caddesi", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["Merkez", "Muhtarlığı", ",", "Doğu", "Mah", ".", "Sahil", "bulvarı", "Cad", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Erenköy", "Pazar", "Yeri", "Erenköy", "Mh", ".", "Çobanyıldızı", "Sok", "."], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Kıvılcım", "Sokağı", "İstanbul", ",", "Ünalan", "Mh", "."], "labels": ["B-SOKAK", "I-SOKAK", "B-IL", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Nato", "yolu", "Sokağı", "İstanbul", "Kirazlıtepe", "Mahallesi"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-IL", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["I", "mrahor", "Caddesi", ",", "I", "mrahor", "Mh", "."], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Acem", "kızı", "Sokağı", "Güzelyalı", "Mah", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Yeşilkent", "2", "Pazarı", "İstanbul", "Yeşilkent", "Mahalle", "Atatürk", "Cad", "."], "labels": ["B-POI", "I-POI", "I-POI", "B-IL", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["İstanbul", "Kader", "ve", "amber", "Sokak", "Anadolu", "Mh", "."], "labels": ["B-IL", "B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Doğuşkent", "Caddesi", ",", "Girne", "Mah", ".", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Aydıntepe", "Aydıntepe", "Mah", ".", "Bağdat", "C", ".", "İstanbul"], "labels": ["B-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Bahçeşehir", "2", ".", "kısım", "Mh", ".", ",", "Mustafa", "kemal", "atatürk", "blv", "C", ".", ",", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["Ihlamurkuyu", "Pazar", "Ihlamurkuyu", "Mah", ".", "Yeşildere", "C", ".", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["Atıfefendi", "Cad", ".", "Ertuğrulgazi", "Mahalle", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Aydos", "Pazarı", ",", "Ertuğrulgazi", "Mahalle", "Atıfefendi", "Cad", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Mimar", "sinan", "Caddesi", ",", "Osman", "gazi", "Mahalle", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Halitpaşa", "Cadde", "İstanbul", "Atalar", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "B-IL", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Bereket", "Sok", ".", "Velibaba", "Mah", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["İstanbul", ",", "Başak", "Mahallesi", ",", "Yunus", "emre", "Cadde"], "labels": ["B-IL", "O", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Ahmet", "kaya", "Caddesi", ",", "İstanbul", "Denizköşkler", "Mahalle"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Polina", "Sokağı", ",", "Orta", "Mh", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Zülfikar", "Sk", ".", "Güngören", "Mahalle"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Kanuni", "sultan", "süleyman", "Cadde", ",", "Burhaniye", "Mahalle"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Fikirtepe", "Muhtarlığı", ",", "Dumlupınar", "Mahallesi", "Mektep", ",", "bahtlı", ",", "şahika", "Sk", "."], "labels": ["B-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Kovuk", "yusuf", "Sok", ".", ",", "Sultançiftliği", "Mahallesi", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Merkez", "Mah", ".", "Yenibosna", "kocasinan", "yolu", "Cadde", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Doğu", "Mah", ".", "Sahil", "bulvarı", "Cadde"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Dumlupınar", "Mahallesi", "Hisar", "C", ".", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["İstanbul", "Atıfefendi", "Caddesi", "Ertuğrulgazi", "Mah", "."], "labels": ["B-IL", "B-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Ihlamurkuyu", "Pazarı", "Ihlamurkuyu", "Mahallesi", "Yeşildere", "Cd", ".", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL"]}
+{"tokens": ["İstanbul", "Şehit", "yüksel", "batur", "Cd", ".", "Ferah", "Mah", "."], "labels": ["B-IL", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Uysal", "Caddesi", "Atatürk", "Mahalle", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Çubuklu", "Mahalle", "Engürü", "bağı", "Caddesi", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Palmiye", "Sk", ".", "Esenşehir", "Mahallesi", ",", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["İstanbul", ",", "Yeşilkent", "2", "Yeşilkent", "Mh", ".", ",", "Atatürk", "Cd", "."], "labels": ["B-IL", "O", "B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Çamlık", "Cd", ".", ",", "İstanbul", ",", "Ahmetyesevi", "Mahalle"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-IL", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Orhanlı", "Pazar", "Mescit", "Mahalle", ",", "Başaran", "Sokak", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "B-IL"]}
+{"tokens": ["Akifbey", "Sok", ".", "Esenkent", "Mahallesi", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Dudullu", "Pazar", "Necipfazıl", "Mah", ".", ",", "I", "slam", "Sk", ".", ",", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "O", "B-IL"]}
+{"tokens": ["Merkez", "Pazarı", "Namık", "kemal", "Mah", ".", "Köşk", "Sokak", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "B-IL"]}
+{"tokens": ["Osmanpaşa", "Cad", ".", "Abdurrahmangazi", "Mh", ".", ",", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["İstanbul", "Esenler", "Mahalle", ",", "Miraç", "Sok", "."], "labels": ["B-IL", "B-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Pazartürk", "1", "Muhtarlığı", "Bahçeşehir", "2", ".", "kısım", "Mahallesi", "Mustafa", "kemal", "atatürk", "blv", "C", "."], "labels": ["B-POI", "I-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Yeşilkent", "1", "Pazar", "Yeri", ",", "Yeşilkent", "Mahalle", "Atatürk", "Cad", "."], "labels": ["B-POI", "I-POI", "I-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Sorgun", "Sokak", "Esatpaşa", "Mh", "."], "labels": ["B-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["İstanbul", ",", "Başıbüyük", "Pazar", "Yeri", ",", "Başıbüyük", "Mahallesi", "Acar", "Sok", "."], "labels": ["B-IL", "O", "B-POI", "I-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Mimarsinan", "Cd", ".", "Mimarsinan", "Mahallesi", ",", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["Bayar", "Cad", ".", ",", "Kozyatağı", "Mahallesi"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Koşuyolu", "İstanbul", "Koşuyolu", "Mah", ".", "Cenap", "şahabettin", "Sok", "."], "labels": ["B-POI", "B-IL", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Dumlupınar", "Mah", ".", "Ali", "baba", "Caddesi", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Kozyatağı", "Muhtarlığı", "Kozyatağı", "Mahalle", ",", "Bayar", "Cadde"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE"]}
+{"tokens": ["Merkez", "Pazar", "Yeri", "İstanbul", "Meclis", "Mah", ".", "Katipçelebi", "Caddesi"], "labels": ["B-POI", "I-POI", "I-POI", "B-IL", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE"]}
+{"tokens": ["İstanbul", "Dumlupınar", "Mah", ".", "Ali", "baba", "Caddesi"], "labels": ["B-IL", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["İstanbul", "Cenap", "şahabettin", "Sokağı", "Koşuyolu", "Mh", "."], "labels": ["B-IL", "B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Özgürlük", "Sokağı", ",", "Tahtakale", "Mh", "."], "labels": ["B-SOKAK", "I-SOKAK", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Zülfikar", "Sokak", "Güngören", "Mh", ".", "İstanbul"], "labels": ["B-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-IL"]}
+{"tokens": ["Fatih", "Cd", ".", "Çobançeşme", "Mahalle", ",", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["Abdurrahmangazi", "Muhtarlığı", "İstanbul", "Abdurrahmangazi", "Mahalle", "Osmanpaşa", "Caddesi"], "labels": ["B-POI", "I-POI", "B-IL", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE"]}
+{"tokens": ["İstanbul", "Hamidiye", "Mehmet", "akif", "Mahalle", ",", "Necip", "fazıl", "kısakürek", "Cd", "."], "labels": ["B-IL", "B-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["İstanbul", "Talatpaşa", "Cad", ".", "Cihangir", "Mh", "."], "labels": ["B-IL", "B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Mustafakemalpaşa", "İstanbul", "Mustafakemalpaşa", "Mahalle", ",", "Fatih", "Cad", "."], "labels": ["B-POI", "B-IL", "B-MAHALLE", "I-MAHALLE", "O", "B-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Hürriyet", "Cadde", ",", "Hürriyet", "Mahallesi", ",", "İstanbul"], "labels": ["B-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "O", "B-IL"]}
+{"tokens": ["Uysal", "Muhtarlığı", "Atatürk", "Mah", ".", "Uysal", "C", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "B-IL"]}
+{"tokens": ["Esentepe", "Mahallesi", "Kiraz", "çiçeği", "Sokak"], "labels": ["B-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Yenimahalle", "Muhtarlığı", "Yenimahalle", "Mahalle", "Pazar", "Sokak"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK"]}
+{"tokens": ["Suatlar", "Pazarı", "Yavuzselim", "Mah", ".", ",", "Tatlıpınar", "Sok", ".", "İstanbul"], "labels": ["B-POI", "I-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK", "B-IL"]}
+{"tokens": ["Talatpaşa", "Cd", ".", "Cihangir", "Mh", "."], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Cumhuriyet", "C", ".", ",", "Ziya", "gökalp", "Mh", "."], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Tepeören", "Pazar", "Yeri", ",", "Tepeören", "Mahalle", "Tevfik", "Sk", "."], "labels": ["B-POI", "I-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Siyavuşpaşa", "Siyavuşpaşa", "Mh", ".", "Leylak", "Sokağı"], "labels": ["B-POI", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK"]}
+{"tokens": ["Merkez", "Muhtarlığı", ",", "Anadolu", "Mahalle", ",", "Kader", "ve", "amber", "Sk", "."], "labels": ["B-POI", "I-POI", "O", "B-MAHALLE", "I-MAHALLE", "O", "B-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK", "I-SOKAK"]}
+{"tokens": ["Yeşilkent", "Mah", ".", "Atatürk", "Caddesi"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE"]}
+{"tokens": ["Küçüksu", "Küçüksu", "Mahallesi", "Dere", "boyu", "Cd", "."], "labels": ["B-POI", "B-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE"]}
+{"tokens": ["Hadımköy", "-", "i", "stanbul", "Cadde", ",", "Hadımköy", "Mahalle"], "labels": ["B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "O", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Mimarsinan", "Mh", ".", "Kömürcü", "Sk", ".", "İstanbul"], "labels": ["B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-SOKAK", "I-SOKAK", "I-SOKAK", "B-IL"]}
+{"tokens": ["İstanbul", "Hadımköy", "-", "i", "stanbul", "Caddesi", "Hadımköy", "Mah", "."], "labels": ["B-IL", "B-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "I-CADDE", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["İstanbul", "Suadiye", "Sok", ".", "Ahmetyesevi", "Mahallesi"], "labels": ["B-IL", "B-SOKAK", "I-SOKAK", "I-SOKAK", "B-MAHALLE", "I-MAHALLE"]}
+{"tokens": ["Taşoluk", ",", "İstanbul", "Taşoluk", "Mah", ".", "Rumeli", "C", "."], "labels": ["B-POI", "O", "B-IL", "B-MAHALLE", "I-MAHALLE", "I-MAHALLE", "B-CADDE", "I-CADDE", "I-CADDE"]}

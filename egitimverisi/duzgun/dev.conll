@@ -1,0 +1,1366 @@
+Güllübağlar	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Emre	B-SOKAK
+Sokak	I-SOKAK
+,	O
+İstanbul	B-IL
+
+I	B-CADDE
+mamı	I-CADDE
+azam	I-CADDE
+Caddesi	I-CADDE
+Akpınar	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Ayhan	B-SOKAK
+Sokağı	I-SOKAK
+Cevizli	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Yenibosna	B-CADDE
+kocasinan	I-CADDE
+yolu	I-CADDE
+Caddesi	I-CADDE
+Kocasinan	B-MAHALLE
+Mahalle	I-MAHALLE
+
+Kazım	B-POI
+Karabekir	I-POI
+Muhtarlığı	I-POI
+,	O
+Kazım	B-MAHALLE
+karabekir	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Mehmet	B-CADDE
+akif	I-CADDE
+bulvarı	I-CADDE
+Cd	I-CADDE
+.	I-CADDE
+
+Karşıyaka	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Yunus	B-MAHALLE
+emre	I-MAHALLE
+Mahallesi	I-MAHALLE
+
+Merkez	B-POI
+2	I-POI
+Pazarı	I-POI
+,	O
+Hasanpaşa	B-MAHALLE
+Mahallesi	I-MAHALLE
+Mandıra	B-CADDE
+Cadde	I-CADDE
+İstanbul	B-IL
+
+I	B-SOKAK
+slam	I-SOKAK
+Sokak	I-SOKAK
+Necipfazıl	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Sahil	B-CADDE
+bulvarı	I-CADDE
+Caddesi	I-CADDE
+Doğu	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Yavuztürk	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Sütçü	B-SOKAK
+yolu	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+İstanbul	B-IL
+
+Soğanlık	B-POI
+Pazarı	I-POI
+Orta	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Atatürk	B-CADDE
+C	I-CADDE
+.	I-CADDE
+
+Müminler	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+Eyüp	B-MAHALLE
+sultan	I-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Zülfikar	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+,	O
+Güngören	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Yavuztürk	B-POI
+Pazar	I-POI
+Yeri	I-POI
+,	O
+Yavuztürk	B-MAHALLE
+Mahalle	I-MAHALLE
+Sütçü	B-SOKAK
+yolu	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+,	O
+İstanbul	B-IL
+
+Acem	B-SOKAK
+kızı	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Güzelyalı	B-MAHALLE
+Mahalle	I-MAHALLE
+
+Prof	B-CADDE
+.	I-CADDE
+dr	I-CADDE
+.	I-CADDE
+hıfzı	I-CADDE
+özcan	I-CADDE
+Cd	I-CADDE
+.	I-CADDE
+,	O
+K	B-MAHALLE
+.	I-MAHALLE
+bakkalköy	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+İstanbul	B-IL
+Katipçelebi	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Meclis	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Atalar	B-POI
+İstanbul	B-IL
+Atalar	B-MAHALLE
+Mahalle	I-MAHALLE
+Halitpaşa	B-CADDE
+Caddesi	I-CADDE
+
+208	B-SOKAK
+.	I-SOKAK
+Sokak	I-SOKAK
+İstanbul	B-IL
+Çatalmeşe	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+İstanbul	B-IL
+Yunus	B-MAHALLE
+emre	I-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+Eliaçık	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+Veysel	B-POI
+Karani	I-POI
+Pazar	I-POI
+İstanbul	B-IL
+Veysel	B-MAHALLE
+karani	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Asıl	B-CADDE
+türk	I-CADDE
+C	I-CADDE
+.	I-CADDE
+
+Girne	B-POI
+Muhtarlığı	I-POI
+Girne	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Doğuşkent	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+
+Gülsuyu	B-POI
+Pazar	I-POI
+Yeri	I-POI
+Gülsuyu	B-MAHALLE
+Mahalle	I-MAHALLE
+Fevzi	B-CADDE
+çakmak	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+
+Hasan	B-SOKAK
+çelebi	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+Örnek	B-MAHALLE
+Mahalle	I-MAHALLE
+İstanbul	B-IL
+
+Cumhuriyet	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Aydınlar	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Çavuşoğlu	B-POI
+Pazar	I-POI
+İstanbul	B-IL
+Çavuşoğlu	B-MAHALLE
+Mahallesi	I-MAHALLE
+Kültür	B-CADDE
+Caddesi	I-CADDE
+
+Hürriyet	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Hürriyet	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Yunus	B-CADDE
+emre	I-CADDE
+C	I-CADDE
+.	I-CADDE
+Battalgazi	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Nadir	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+I	B-MAHALLE
+çerenköy	I-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Safahat	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Uğurmumcu	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Beyaz	B-CADDE
+ergüvan	I-CADDE
+Caddesi	I-CADDE
+Paşabahçe	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Suatlar	B-POI
+Yavuzselim	B-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+Tatlıpınar	B-SOKAK
+Sokağı	I-SOKAK
+
+I	B-CADDE
+hvanlar	I-CADDE
+Caddesi	I-CADDE
+,	O
+Fatih	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+İstanbul	B-IL
+Bankalar	B-CADDE
+Caddesi	I-CADDE
+Orhantepe	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+İstanbul	B-IL
+Köyiçi	B-POI
+Kocasinan	I-POI
+Muhtarlığı	I-POI
+Merkez	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+,	O
+Yenibosna	B-CADDE
+kocasinan	I-CADDE
+yolu	I-CADDE
+Caddesi	I-CADDE
+
+Sabır	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Cumhuriyet	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Yeniay	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Şeyhli	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Gül	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Mehmetakif	B-MAHALLE
+Mahalle	I-MAHALLE
+
+İstanbul	B-IL
+Kiraz	B-SOKAK
+çiçeği	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+Esentepe	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Pazaryeri	B-CADDE
+Cadde	I-CADDE
+,	O
+Terkos	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+İstanbul	B-IL
+,	O
+Reşitpaşa	B-CADDE
+Cadde	I-CADDE
+Yeniçamlıca	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+İstanbul	B-IL
+Atatürk	B-CADDE
+Caddesi	I-CADDE
+Yeşilkent	B-MAHALLE
+Mahalle	I-MAHALLE
+
+İstanbul	B-IL
+Örnek	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Hasan	B-SOKAK
+çelebi	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+Mehmet	B-POI
+Akif	I-POI
+Pazar	I-POI
+Yeri	I-POI
+Mehmet	B-MAHALLE
+akif	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Kubilay	B-CADDE
+C	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+
+İstasyon	B-POI
+Pazarı	I-POI
+,	O
+I	B-MAHALLE
+stasyon	I-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Hacıoğlu	B-SOKAK
+Sokak	I-SOKAK
+
+Yenisahra	B-POI
+Muhtarlığı	I-POI
+Yenisahra	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Yıldırım	B-CADDE
+beyazıt	I-CADDE
+C	I-CADDE
+.	I-CADDE
+
+İstanbul	B-IL
+Hürriyet	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Hürriyet	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+
+İstanbul	B-IL
+Cemre	B-SOKAK
+Sokak	I-SOKAK
+Harmandere	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Uzunayna	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+Çakmak	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Genç	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Sülüntepe	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Tahtakale	B-POI
+Muhtarlığı	I-POI
+Tahtakale	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Özgürlük	B-SOKAK
+Sokağı	I-SOKAK
+
+Cemre	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Harmandere	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+İstanbul	B-IL
+Hadımköy	B-CADDE
+-	I-CADDE
+i	I-CADDE
+stanbul	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+Hadımköy	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Kanuni	B-CADDE
+sultan	I-CADDE
+süleyman	I-CADDE
+Caddesi	I-CADDE
+Burhaniye	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Kanuni	B-CADDE
+sultan	I-CADDE
+süleyman	I-CADDE
+Cd	I-CADDE
+.	I-CADDE
+Burhaniye	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Boğazköy	B-POI
+Cuma	I-POI
+Pazarı	I-POI
+,	O
+Yunus	B-MAHALLE
+emre	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+Eliaçık	B-SOKAK
+Sokağı	I-SOKAK
+İstanbul	B-IL
+
+Egemen	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Taşoluk	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Ferah	B-POI
+,	O
+Ferah	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+Şehit	B-CADDE
+yüksel	I-CADDE
+batur	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+
+Site	B-POI
+Pazar	I-POI
+,	O
+Armağan	B-MAHALLE
+evler	I-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Sırt	B-SOKAK
+Sokak	I-SOKAK
+
+Hasan	B-SOKAK
+çelebi	I-SOKAK
+Sokak	I-SOKAK
+Örnek	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Karlıbayır	B-POI
+Karlıbayır	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+Cemre	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+İstanbul	B-IL
+
+Cemil	B-SOKAK
+ve	I-SOKAK
+meriç	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+,	O
+Üniversite	B-MAHALLE
+Mahallesi	I-MAHALLE
+İstanbul	B-IL
+
+Güzelyalı	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Acem	B-SOKAK
+kızı	I-SOKAK
+Sokağı	I-SOKAK
+İstanbul	B-IL
+
+Yavuzselim	B-MAHALLE
+Mahalle	I-MAHALLE
+Tatlıpınar	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+Fatih	B-CADDE
+Caddesi	I-CADDE
+,	O
+Mustafakemalpaşa	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Orhangazi	B-CADDE
+Caddesi	I-CADDE
+,	O
+Mustafakemalpaşa	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Güvercintepe	B-POI
+Çrş	I-POI
+,	O
+Güvercintepe	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Cumhuriyet	B-CADDE
+Caddesi	I-CADDE
+,	O
+İstanbul	B-IL
+
+Uygur	B-CADDE
+Caddesi	I-CADDE
+İstanbul	B-IL
+Altıntepsi	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Başak	B-POI
+1	I-POI
+Muhtarlığı	I-POI
+Başak	B-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+Yunus	B-CADDE
+emre	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+
+Ali	B-CADDE
+baba	I-CADDE
+Caddesi	I-CADDE
+,	O
+Dumlupınar	B-MAHALLE
+Mahalle	I-MAHALLE
+İstanbul	B-IL
+
+Kireç	B-SOKAK
+ocağı	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+,	O
+Çengelköy	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Mustafa	B-CADDE
+kemal	I-CADDE
+atatürk	I-CADDE
+blv	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Bahçeşehir	B-MAHALLE
+2	I-MAHALLE
+.	I-MAHALLE
+kısım	I-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Uysal	B-CADDE
+C	I-CADDE
+.	I-CADDE
+,	O
+Atatürk	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Beyaz	B-CADDE
+ergüvan	I-CADDE
+Caddesi	I-CADDE
+Paşabahçe	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Bolluca	B-POI
+Hicret	B-MAHALLE
+Mahallesi	I-MAHALLE
+Abdullah	B-CADDE
+gül	I-CADDE
+Cd	I-CADDE
+.	I-CADDE
+,	O
+İstanbul	B-IL
+
+Acıbadem	B-POI
+Pazar	I-POI
+,	O
+Acıbadem	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Acıbadem	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+
+Kemerdere	B-POI
+Necipfazıl	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+Yavuz	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+
+Safahat	B-CADDE
+Cadde	I-CADDE
+,	O
+Uğurmumcu	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Doğu	B-CADDE
+kapısı	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+Ortaçeşme	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Zafer	B-POI
+Cuma	I-POI
+Pazar	I-POI
+,	O
+İstanbul	B-IL
+,	O
+Zafer	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Gümüş	B-SOKAK
+,	I-SOKAK
+kuzey	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+Aydınlı	B-CADDE
+yolu	I-CADDE
+Cd	I-CADDE
+.	I-CADDE
+Aydınlı	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Pelin	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Güzeltepe	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Nato	B-SOKAK
+yolu	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+Kirazlıtepe	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Kirazlıtepe	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Nato	B-SOKAK
+yolu	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+
+Ümit	B-CADDE
+kaftancıoğlu	I-CADDE
+Cd	I-CADDE
+.	I-CADDE
+,	O
+Gülensu	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Fatih	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+Şifa	B-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Reşitpaşa	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Merkez	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Esenkent	B-POI
+Pazarı	I-POI
+Esenkent	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Çağrıbey	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+
+İstanbul	B-IL
+,	O
+İçmeler	B-POI
+Pazar	I-POI
+I	B-MAHALLE
+çmeler	I-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Fırat	B-SOKAK
+Sokak	I-SOKAK
+
+Esenkent	B-POI
+Pazar	I-POI
+Yeri	I-POI
+İstanbul	B-IL
+Esenkent	B-MAHALLE
+Mahallesi	I-MAHALLE
+Akifbey	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+Ferah	B-POI
+Pazar	I-POI
+Yeri	I-POI
+,	O
+Ferah	B-MAHALLE
+Mahallesi	I-MAHALLE
+Şehit	B-CADDE
+yüksel	I-CADDE
+batur	I-CADDE
+Caddesi	I-CADDE
+İstanbul	B-IL
+
+Kocasinan	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Yenibosna	B-CADDE
+kocasinan	I-CADDE
+yolu	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+
+Gündöndü	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+Tahtakale	B-MAHALLE
+Mahalle	I-MAHALLE
+
+Soğanlı	B-POI
+Pazarı	I-POI
+,	O
+Cumhuriyet	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Rehber	B-CADDE
+C	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+
+Yamaç	B-SOKAK
+ve	I-SOKAK
+süngü	I-SOKAK
+Sokağı	I-SOKAK
+Ömerli	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Necip	B-POI
+Fazıl	I-POI
+Pazarı	I-POI
+Necip	B-MAHALLE
+fazıl	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Antalya	B-CADDE
+Caddesi	I-CADDE
+İstanbul	B-IL
+
+Sabır	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+Cumhuriyet	B-MAHALLE
+Mahalle	I-MAHALLE
+
+Merkez	B-POI
+Muhtarlığı	I-POI
+İstanbul	B-IL
+Altayçeşme	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Kiraz	B-SOKAK
+Sokak	I-SOKAK
+
+Gümüşsuyu	B-POI
+Pazar	I-POI
+Yeri	I-POI
+,	O
+Gümüşsuyu	B-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+Fatin	B-SOKAK
+hoca	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+,	O
+İstanbul	B-IL
+
+Mimarsinan	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Anadolu	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Gündöndü	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+,	O
+Tahtakale	B-MAHALLE
+Mahalle	I-MAHALLE
+
+İstanbul	B-IL
+,	O
+Gülensu	B-POI
+Pazarı	I-POI
+Gülensu	B-MAHALLE
+Mahallesi	I-MAHALLE
+Ümit	B-CADDE
+kaftancıoğlu	I-CADDE
+C	I-CADDE
+.	I-CADDE
+
+Abdurrahmangazi	B-POI
+Muhtarlığı	I-POI
+,	O
+Abdurrahmangazi	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Osmanpaşa	B-CADDE
+C	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+
+Bolluca	B-POI
+Pazar	I-POI
+Yeri	I-POI
+Hicret	B-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+Abdullah	B-CADDE
+gül	I-CADDE
+Caddesi	I-CADDE
+İstanbul	B-IL
+
+Çiftlik	B-POI
+Pazar	I-POI
+Yeri	I-POI
+İstanbul	B-IL
+,	O
+Çiftlik	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+Pazar	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+Deliklikaya	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Sırat	B-SOKAK
+Sokağı	I-SOKAK
+
+Çavuşoğlu	B-POI
+Pazarı	I-POI
+Çavuşoğlu	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+,	O
+Kültür	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+
+Fatih	B-CADDE
+bulvarı	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Akşemsettin	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Çobanyıldızı	B-SOKAK
+Sokağı	I-SOKAK
+Erenköy	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Tez	B-SOKAK
+Sokak	I-SOKAK
+,	O
+Osmaniye	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Cemre	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+,	O
+Harmandere	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Yayla	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Cengiz	B-CADDE
+topel	I-CADDE
+Caddesi	I-CADDE
+
+İstanbul	B-IL
+Erdemli	B-SOKAK
+Sokak	I-SOKAK
+Aydınlı	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Mert	B-SOKAK
+,	I-SOKAK
+şirin	I-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+İstanbul	B-IL
+Şahintepe	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+İstanbul	B-IL
+,	O
+Bayar	B-CADDE
+Cadde	I-CADDE
+Kozyatağı	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Selamet	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Çamçeşme	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+İstanbul	B-IL
+Halkalı	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+,	O
+Yeşilköy	B-MAHALLE
+Mahalle	I-MAHALLE
+
+İstanbul	B-IL
+Kuyumcu	B-SOKAK
+Sokak	I-SOKAK
+Yukarı	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Mehmet	B-CADDE
+akif	I-CADDE
+ersoy	I-CADDE
+Caddesi	I-CADDE
+Beylerbeyi	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Kocasinan	B-POI
+Açık	I-POI
+Pazarı	I-POI
+Kocasinan	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Yenibosna	B-CADDE
+kocasinan	I-CADDE
+yolu	I-CADDE
+Cadde	I-CADDE
+
+Halkalı	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+İstanbul	B-IL
+,	O
+Yeşilköy	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Mandıra	B-CADDE
+Cadde	I-CADDE
+,	O
+İstanbul	B-IL
+Hasanpaşa	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Ziya	B-POI
+Gökalp	I-POI
+Pazarı	I-POI
+Ziya	B-MAHALLE
+gökalp	I-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Cumhuriyet	B-CADDE
+Cadde	I-CADDE
+
+Yıldırım	B-CADDE
+beyazıt	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+Hürriyet	B-MAHALLE
+Mahalle	I-MAHALLE
+İstanbul	B-IL
+
+Göçmen	B-SOKAK
+Sokak	I-SOKAK
+,	O
+Hadımköy	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Fevzipaşa	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+I	B-MAHALLE
+nkilap	I-MAHALLE
+Mahallesi	I-MAHALLE
+
+Soğukpınar	B-POI
+,	O
+Soğukpınar	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Canan	B-SOKAK
+Sokak	I-SOKAK
+İstanbul	B-IL
+
+Hicret	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+,	O
+Mehmet	B-MAHALLE
+akif	I-MAHALLE
+ersoy	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+İstanbul	B-IL
+Ambarlı	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+Fevziçakmak	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+
+Dirsek	B-SOKAK
+Sokağı	I-SOKAK
+İstanbul	B-IL
+Şenlikköy	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Durusu	B-POI
+,	O
+Terkos	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+Pazaryeri	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+
+İçerenköy	B-POI
+I	B-MAHALLE
+çerenköy	I-MAHALLE
+Mahallesi	I-MAHALLE
+Nadir	B-SOKAK
+Sokağı	I-SOKAK
+
+Güllübağlar	B-POI
+Muhtarlığı	I-POI
+,	O
+Güllübağlar	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Emre	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+
+İstanbul	B-IL
+Uzunayna	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Çakmak	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+İstanbul	B-IL
+Şirinevler	B-POI
+Pazarı	I-POI
+,	O
+Şirinevler	B-MAHALLE
+Mahalle	I-MAHALLE
+Sarnıç	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+
+Ağrı	B-CADDE
+Cd	I-CADDE
+.	I-CADDE
+Mecidiye	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Malazgirt	B-CADDE
+,	I-CADDE
+dere	I-CADDE
+Cadde	I-CADDE
+Ekşioğlu	B-MAHALLE
+Mahallesi	I-MAHALLE
+İstanbul	B-IL
+
+Mustafa	B-CADDE
+kemal	I-CADDE
+atatürk	I-CADDE
+blv	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Bahçeşehir	B-MAHALLE
+2	I-MAHALLE
+.	I-MAHALLE
+kısım	I-MAHALLE
+Mahallesi	I-MAHALLE
+
+Şirinevler	B-POI
+Muhtarlığı	I-POI
+Şirinevler	B-MAHALLE
+Mahalle	I-MAHALLE
+Sarnıç	B-SOKAK
+Sokağı	I-SOKAK
+,	O
+İstanbul	B-IL
+
+Akpınar	B-POI
+Cuma	I-POI
+Pazar	I-POI
+Yeri	I-POI
+Akpınar	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+,	O
+Pirireis	B-CADDE
+Caddesi	I-CADDE
+
+Malazgirt	B-CADDE
+,	I-CADDE
+dere	I-CADDE
+C	I-CADDE
+.	I-CADDE
+Ekşioğlu	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+
+Acar	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+Başıbüyük	B-MAHALLE
+Mahalle	I-MAHALLE
+İstanbul	B-IL
+
+Hadımköy	B-POI
+Kapalı	I-POI
+Pazarı	I-POI
+Hadımköy	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+Göçmen	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+,	O
+İstanbul	B-IL
+
+Dere	B-CADDE
+boyu	I-CADDE
+Cad	I-CADDE
+.	I-CADDE
+Küçüksu	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+Özgürlük	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Tahtakale	B-MAHALLE
+Mahallesi	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Acar	B-SOKAK
+Sokak	I-SOKAK
+,	O
+Başıbüyük	B-MAHALLE
+Mahalle	I-MAHALLE
+,	O
+İstanbul	B-IL
+
+Cahit	B-CADDE
+sıtkı	I-CADDE
+tarancı	I-CADDE
+Cadde	I-CADDE
+Hadımköy	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+İstanbul	B-IL
+Tunalı	B-CADDE
+Cad	I-CADDE
+.	I-CADDE
+,	O
+Başak	B-MAHALLE
+Mahallesi	I-MAHALLE
+
+Polina	B-SOKAK
+Sokağı	I-SOKAK
+Orta	B-MAHALLE
+Mah	I-MAHALLE
+.	I-MAHALLE
+İstanbul	B-IL
+
+İstanbul	B-IL
+K	B-MAHALLE
+.	I-MAHALLE
+bakkalköy	I-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+,	O
+Prof	B-CADDE
+.	I-CADDE
+dr	I-CADDE
+.	I-CADDE
+hıfzı	I-CADDE
+özcan	I-CADDE
+Cadde	I-CADDE
+
+Cemre	B-SOKAK
+Sok	I-SOKAK
+.	I-SOKAK
+Harmandere	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Bankalar	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Orhantepe	B-MAHALLE
+Mahallesi	I-MAHALLE
+İstanbul	B-IL
+
+Kirazlıtepe	B-POI
+Muhtarlığı	I-POI
+Kirazlıtepe	B-MAHALLE
+Mahallesi	I-MAHALLE
+Nato	B-SOKAK
+yolu	I-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+İstanbul	B-IL
+
+Acıbadem	B-CADDE
+C	I-CADDE
+.	I-CADDE
+Acıbadem	B-MAHALLE
+Mh	I-MAHALLE
+.	I-MAHALLE
+
+Yenimahalle	B-MAHALLE
+Mahalle	I-MAHALLE
+Pazar	B-SOKAK
+Sk	I-SOKAK
+.	I-SOKAK
+

@@ -1,0 +1,1 @@
+Its just something I done for the teknofest adress project I am just doing some data manipulation, fetching data from google and yandex and bert training
